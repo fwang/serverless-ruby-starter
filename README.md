@@ -1,6 +1,6 @@
 # Serverless Ruby Starter
 
-A Ruby starter project for [Serverless Framework](https://serverless.com/framework/) with [Bundle](https://bundler.io) and [Rspec](http://rspec.info).
+A Ruby starter project for [Serverless Framework](https://serverless.com/framework/) with [Bundle](https://bundler.io) and [RSpec](http://rspec.info).
 
 ### Requirements
 
