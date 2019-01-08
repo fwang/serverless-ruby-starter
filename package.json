@@ -1,0 +1,12 @@
+{
+  "name": "serverless-ruby-starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "bundle exec rspec"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
