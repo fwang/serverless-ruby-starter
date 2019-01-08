@@ -54,7 +54,7 @@ $ serverless deploy function --function hello
 ### Support
 
 - Send us an [email](mailto:frank@seed.run) if you have any questions
-- Open a [new issue](https://github.com/AnomalyInnovations/serverless-fsharp-starter/issues/new) if you've found a bug or have some suggestions.
+- Open a [new issue](https://github.com/AnomalyInnovations/serverless-ruby-starter/issues/new) if you've found a bug or have some suggestions.
 - Or submit a pull request!
 
 ### Maintainers
